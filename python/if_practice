@@ -1,0 +1,12 @@
+#　条件分岐（if/elif/else）の練習ファイル
+print("数値の判定")
+x=17
+
+if x < 10:
+    print("xは10未満")
+elif x < 20:
+    print("xは10以上20未満")
+else:
+    print("xは20以上")
+
+
