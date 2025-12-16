@@ -1,0 +1,3 @@
+a = int(input("数字aを入力"))
+b = int(input("数字bを入力"))
+print("a+b=",a+b)
